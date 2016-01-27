@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Luxury handmade skin care products]]></title>
         <description><![CDATA[Luxury handmade skin care products]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/madebyoriley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 16:23:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Jan 2016 16:24:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madebyoriley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://img0.etsystatic.com/137/1/11348819/il_570xN.907115672_rnb4.jpg">]]></description>
+            <link>https://www.etsy.com/listing/264706431/heart-of-my-heart-valentines-gift-luxury?ref=shop_home_active_2</link>
+            <guid isPermaLink="false">480405ed-0c80-4dff-9d71-933bd1a3a750</guid>
+            <pubDate>Wed, 27 Jan 2016 16:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be5c147b-555c-4190-969a-73009e81cd87.jpg">]]></description>
-            <link>undefinedc4e01d46-7eaf-48d1-9b50-f3024d38c242/index.html</link>
+            <link>https://thegrid.ai/madebyoriley/c4e01d46-7eaf-48d1-9b50-f3024d38c242/index.html</link>
             <guid isPermaLink="false">c4e01d46-7eaf-48d1-9b50-f3024d38c242</guid>
             <pubDate>Wed, 27 Jan 2016 16:23:21 GMT</pubDate>
         </item>
