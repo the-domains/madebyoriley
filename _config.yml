@@ -1,29 +1,41 @@
-name: MadeByORiley
-favicon: null
-layout_spectrum: 0.74672
-typography_spectrum: 0.36149
 title: Luxury handmade skin care products
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.06849267869256437
+  lightness: 1
   brandColors:
     - '#ffffff'
     - '#46473f'
     - '#e25124'
     - '#c0c0b4'
     - '#959056'
-  brandStrength: 0.06849267869256437
-  lightness: 0.1875
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.7419899
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: MadeByORiley
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.36149
+layout_spectrum: 0
