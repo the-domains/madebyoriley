@@ -4,8 +4,15 @@
         <description><![CDATA[Soap Art and Skin Care Products]]></description>
         <link>https://thegrid.ai/madebyoriley/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:33:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:38:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/madebyoriley/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39f85c3f-9770-4d8f-99f7-1f8df5e843b5.jpg">]]></description>
+            <link>https://thegrid.ai/madebyoriley/dc3d565e-e7f5-45af-82ea-234d073fe5c6/index.html</link>
+            <guid isPermaLink="false">dc3d565e-e7f5-45af-82ea-234d073fe5c6</guid>
+            <pubDate>Tue, 08 Mar 2016 01:37:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68bd0c5-3db2-4fad-a739-eb1d393e52ad.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.etsy.com/listing/265452411/carved-in-stone-luxury-handmade-soap-for?ref=related-0</link>
             <guid isPermaLink="false">7c45e52b-e1f6-4a67-90ab-6112e9fbad54</guid>
             <pubDate>Tue, 08 Mar 2016 01:07:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://img1.etsystatic.com/132/0/11348819/il_570xN.887050703_o407.jpg">]]></description>
-            <link>https://www.etsy.com/listing/260119325/glass-heart-luxury-handmade-soap-with?ref=shop_home_active_7</link>
-            <guid isPermaLink="false">f347f787-65e1-476b-b67c-00bc00bded03</guid>
-            <pubDate>Tue, 08 Mar 2016 01:00:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
