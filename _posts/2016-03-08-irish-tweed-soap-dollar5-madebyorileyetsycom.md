@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T00:27:54.658Z'
-dateModified: '2016-03-08T00:27:37.033Z'
+datePublished: '2016-03-08T00:32:55.557Z'
+dateModified: '2016-03-08T00:27:58.246Z'
 title: Irish Tweed Soap $5 @ MadeByORiley.etsy.com
 author: []
+sourcePath: _posts/2016-03-08-irish-tweed-soap-dollar5-madebyorileyetsycom.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-irish-tweed-soap-dollar5-madebyorileyetsycom.md
-published: true
 url: irish-tweed-soap-dollar5-madebyorileyetsycom/index.html
 _type: Article
 
